@@ -37,11 +37,11 @@
 
 ![8](./content/8-copio%20url%20del%20repositorio.png)
 
-*9 - Conecto mi repositorio local con el repositorio en la hithub_1*
+*9 Agrego archivo readme y comentarios*
 
 ![9](./content/9-Agrego%20archivo%20readme%20y%20comentarios.png)
 
-*9 Agrego archivo readme y comentarios*
+*9 - Conecto mi repositorio local con el repositorio en la hithub_1*
 
 ![9a](./content/9-Conecto%20mi%20repositorio%20local%20con%20el%20repositorio%20en%20la%20hithub_1.png)
 
