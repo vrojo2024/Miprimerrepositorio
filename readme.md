@@ -3,4 +3,5 @@
 ## En este respositorio mostraré el paso a paso para la 1er entrega del bootcamp
 
 
-## Realizando un cambio 20:40
+#### A continuación agregaré capturtas de pantalla del paso a paso
+
