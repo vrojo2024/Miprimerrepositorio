@@ -29,7 +29,7 @@
 
 ![6](./content/6-Inicializo%20repositorio.png)
 
-*7 - Creo repositorio en Hithub*
+*7 - Creo repositorio en Github*
 
 ![7](./content/7-Creo%20repositorio%20en%20Hithub.png)
 
@@ -41,11 +41,11 @@
 
 ![9](./content/9-Agrego%20archivo%20readme%20y%20comentarios.png)
 
-*9 - Conecto mi repositorio local con el repositorio en la hithub_1*
+*9 - Conecto mi repositorio local con el repositorio en la Github_1*
 
 ![9a](./content/9-Conecto%20mi%20repositorio%20local%20con%20el%20repositorio%20en%20la%20hithub_1.png)
 
-*10 - Conecto Mi repositorio local con el repositorio en hithub_2*
+*10 - Conecto Mi repositorio local con el repositorio en Github_2*
 
 ![10](./content/10%20-Conecto%20Mi%20repositorio%20local%20con%20el%20repositorio%20en%20hithub_2.png)
 
@@ -65,11 +65,11 @@
 
 ![13](./content/13-Creo%20un%20commit%20con%20un%20mensaje%20descriptivo.png)
 
-*14 - Subo los cambios al repositorio en Git hub*
+*14 - Subo los cambios al repositorio en Github*
 
 ![14](./content/14-Subo%20los%20cambios%20al%20repositorio%20en%20Git%20hub.png)
 
-*15 compruebo que se han subido correctamente a Hithub*
+*15 compruebo que se han subido correctamente a Github*
 
 ![15](./content/15-compruebo%20que%20se%20han%20subido%20correctamente%20a%20Hithub.png)
 
